@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SiebogJS/Connection/issues"
   },
-  "homepage": "https://github.com/SiebogJS/Connection#readme"
+  "homepage": "https://github.com/SiebogJS/Connection#readme",
+  "dependencies": {
+    "zmq-connection": "file:./lib/manager/default/ZMQConnection"
+  }
 }
