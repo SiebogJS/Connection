@@ -1,3 +1,6 @@
 [submodule "lib/manager/default/ZMQConnection"]
 	path = lib/manager/default/ZMQConnection
 	url = https://github.com/SiebogJS/ZMQConnection.git
+[submodule "lib/Common"]
+	path = lib/Common
+	url = https://github.com/SiebogJS/Common.git

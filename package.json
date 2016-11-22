@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SiebogJS/Connection#readme",
   "dependencies": {
-    "zmq-connection": "file:./lib/manager/default/ZMQConnection"
+    "zmq-connection": "file:./lib/manager/default/ZMQConnection",
+    "siebogjs-common": "file:./lib/Common"
   }
 }
